@@ -1,4 +1,4 @@
-package problems;
+package basic_problems;
 
 public class Find_Odd_Or_Even_number {
 	

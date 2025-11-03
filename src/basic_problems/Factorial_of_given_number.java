@@ -1,4 +1,4 @@
-package problems;
+package basic_problems;
 
 public class Factorial_of_given_number {
 	
